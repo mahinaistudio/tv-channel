@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CN" group-title="",Al Jazeera 1
-https://84.17.40.25/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/2560px-Aljazeera_eng.svg.png" group-title="",Al Jazeera 1
 https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/2560px-Aljazeera_eng.svg.png" group-title="",Al Jazeera 2
@@ -45,6 +43,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 http://10.247.249.10:8088/207/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Channel i 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/960px-Channel-i.svg.png" group-title="",Channel i 2
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CN (Cartoon Network)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png" group-title="",CN (Cartoon Network)
+https://84.17.40.25/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="CNA 1 (Channel News Asia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/960px-CNA_new_logo.svg.png" group-title="",CNA 1 (Channel News Asia)
 https://mediacorp-nca-prod-videos-bclive.akamaized.net/6379472319112/ap-southeast-1/6057994443001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGE2ODB1LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjA1Nzk5NDQ0MzAwMSIsImVobiI6Im1lZGlhY29ycC1uY2EtcHJvZC12aWRlb3MtYmNsaXZlLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYwNTc5OTQ0NDMwMDEiXSwianRpIjoiNjM3OTQ3MjMxOTExMiJ9.Cw77amOc6efNO32Sw9nD0SOhjQUc5ewKN8ZWJOPt15Y/playlist-hls.m3u8
 #EXTINF:-1 tvg-id="CNA 2 (Channel News Asia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/960px-CNA_new_logo.svg.png" group-title="",CNA 2 (Channel News Asia)
